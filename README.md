@@ -21,5 +21,5 @@
 
 ### 📬 Conectemos
 
-- 💼 **LinkedIn:** [Axel Daniel Somohano](https://www.linkedin.com/in/axel-somohano)
+- 💼 **LinkedIn:** [Axel Daniel Somohano](https://www.linkedin.com/in/daniel-somohano)
 - 🌐 **GitHub:** [Somohanito](https://github.com/Somohanito)
