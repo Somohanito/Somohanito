@@ -1,25 +1,27 @@
-# ¡Hola! Soy Axel Daniel (El Inge) 👋
+Tienes toda la razón, se ven demasiado genéricos y corporativos. Vamos a limpiar el formato para que se vea más limpio, directo y profesional, manteniendo la coherencia exacta con tu perfil de LinkedIn.
 
-**Ingeniero Biomédico & Desarrollador Full-Stack** apasionado por crear aplicaciones web funcionales, escalables y orientadas a la salud digital y la automatización de negocios.
+# Hi, I'm Axel Daniel 👋
 
----
-
-### 🛠️ Tecnologías & Herramientas
-
-- **Especialidades:** Ingeniería Biomédica, Salud Digital, Desarrollo Web Full-Stack
-- **Lenguajes:** Python, JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & ORM:** Flask, Jinja2, Bootstrap 5, SQLAlchemy
-- **Bases de Datos & Herramientas:** PostgreSQL, SQLite, Git, GitHub, REST APIs
+**Biomedical Engineer & Full-Stack Developer** transitioning into HealthTech Systems and Backend Architecture, bridging clinical needs with modern digital solutions.
 
 ---
 
-### 🚀 Proyectos Destacados
+### Technical Stack
 
-- ⚡ **[GymWeb](https://github.com/Somohanito/Gym-Web):** Plataforma SaaS para gestión de gimnasios con control de acceso por código QR, automatización de membresías y seguimiento de rutinas por entrenador.
+* **Focus:** Biomedical Engineering, HealthTech Systems, Backend Architecture, Digital Health
+* **Languages:** Python, JavaScript (ES6+), HTML5, CSS3
+* **Frameworks:** Flask, Jinja2, Bootstrap 5, SQLAlchemy
+* **Tools & Databases:** PostgreSQL, SQLite, Git, GitHub, REST APIs, Technical Troubleshooting
 
 ---
 
-### 📬 Conectemos
+### Featured Projects
 
-- 💼 **LinkedIn:** [Axel Daniel Somohano](https://www.linkedin.com/in/daniel-somohano)
-- 🌐 **GitHub:** [Somohanito](https://github.com/Somohanito)
+* **[GymWeb](https://github.com/Somohanito/Gym-Web):** SaaS platform for gym management featuring real-time QR code access control, membership automation, and trainer routine tracking.
+
+---
+
+### Connect
+
+* **LinkedIn:** [Axel Daniel Somohano](https://www.linkedin.com/in/daniel-somohano)
+* **GitHub:** [Somohanito](https://github.com/Somohanito)
