@@ -1,5 +1,3 @@
-Tienes toda la razón, se ven demasiado genéricos y corporativos. Vamos a limpiar el formato para que se vea más limpio, directo y profesional, manteniendo la coherencia exacta con tu perfil de LinkedIn.
-
 # Hi, I'm Axel Daniel 👋
 
 **Biomedical Engineer & Full-Stack Developer** transitioning into HealthTech Systems and Backend Architecture, bridging clinical needs with modern digital solutions.
