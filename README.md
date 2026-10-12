@@ -1,6 +1,10 @@
-# Hi, I'm Axel Daniel 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,35,50&height=200&section=header&text=AXEL%20SOMOHANO&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineer%20&%20Full-Stack%20Developer&descSize=16&descAlignY=62" />
+</p>
 
-**Biomedical Engineer & Full-Stack Developer** transitioning into HealthTech Systems and Backend Architecture, bridging clinical needs with modern digital solutions.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Biomedical+Engineer+%26+Full-Stack+Developer;HealthTech+Systems+%26+Backend+Architecture;Embedded+Systems+%26+Mechatronics" alt="Typing SVG" /></a>
+</p>
 
 ---
 
@@ -18,7 +22,7 @@
 - **[sovic-cervical-cytology](https://github.com/Somohanito/sovic-cervical-cytology):** Automated cervical cytology triage system powered by Raspberry Pi 5, ESP32-C3 mechatronics, and Deep Learning for non-invasive automated slide scanning.
 - **[GymWeb](https://github.com/Somohanito/Gym-Web):** Modular SaaS platform for gym administration, featuring real-time QR code access control, automated membership renewals, and coach-student workout tracking.
 - **[Sistema-telesalud](https://github.com/Somohanito/Sistema-telesalud):** Hospital management web system for telemedicine with role-based access control, clinical records, laboratory management, and HL7 data exchange standards.
-- **[esp32-gesture-robot](https://github.com/Somohanito/esp32-gesture-robot):** Real-time gesture control system powered by an embedded neural network on an ESP32 (C++), Python/Keras datasets, ESP-NOW communication, and a 3D-printed chassis..
+- **[esp32-gesture-robot](https://github.com/Somohanito/esp32-gesture-robot):** Real-time gesture control system powered by an embedded neural network on an ESP32 (C++), Python/Keras datasets, ESP-NOW communication, and a 3D-printed chassis.
 
 ---
 
