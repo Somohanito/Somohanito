@@ -30,15 +30,6 @@
 
 ---
 
-### Development Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somohanito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=94a3b8&icon_color=00f2fe&title_color=00f2fe" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somohanito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=94a3b8&title_color=00f2fe" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### Connect
 
 <p align="center">
