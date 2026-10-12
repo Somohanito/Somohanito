@@ -15,9 +15,10 @@
 
 ### Featured Projects
 
+- **[sovic-cervical-cytology](https://github.com/Somohanito/sovic-cervical-cytology):** Automated cervical cytology triage system powered by Raspberry Pi 5, ESP32-C3 mechatronics, and Deep Learning for non-invasive automated slide scanning.
 - **[GymWeb](https://github.com/Somohanito/Gym-Web):** Modular SaaS platform for gym administration, featuring real-time QR code access control, automated membership renewals, and coach-student workout tracking.
 - **[Sistema-telesalud](https://github.com/Somohanito/Sistema-telesalud):** Hospital management web system for telemedicine with role-based access control, clinical records, laboratory management, and HL7 data exchange standards.
-- **[esp32-gesture-robot](https://github.com/Somohanito/esp32-gesture-robot):** Real-time gesture control system powered by an embedded neural network on an ESP32 (C++), Python/Keras datasets, ESP-NOW communication, and a 3D-printed chassis.
+- **[esp32-gesture-robot](https://github.com/Somohanito/esp32-gesture-robot):** Real-time gesture control system powered by an embedded neural network on an ESP32 (C++), Python/Keras datasets, ESP-NOW communication, and a 3D-printed chassis..
 
 ---
 
