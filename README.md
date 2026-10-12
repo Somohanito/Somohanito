@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,10,20,35&height=220&section=header&text=AXEL%20SOMOHANO&fontSize=42&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineer%20&%20Backend%20Developer&descSize=16&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,8,15,25&height=180&section=header&text=AXEL%20SOMOHANO&fontSize=38&fontColor=00f2fe&animation=none&fontAlignY=45&desc=BIOMEDICAL%20%26%20EMBEDDED%20SYSTEMS%20ENGINEER&descSize=14&descColor=94a3b8&descAlignY=70&stroke=00f2fe&strokeWidth=1" />
 </p>
 
 <p align="center">
