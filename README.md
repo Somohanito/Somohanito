@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=150508&height=200&section=header&text=AXEL%20SOMOHANO&fontSize=42&fontColor=ff3366&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineer%20&%20Full-Stack%20Developer&descSize=16&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0055ff&height=200&section=header&text=AXEL%20SOMOHANO&fontSize=42&fontColor=00f2fe&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineer%20&%20Full-Stack%20Developer&descSize=16&descAlignY=62" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ff3366&center=true&vCenter=true&width=650&height=40&lines=Biomedical+Engineer+%26+Full-Stack+Developer;HealthTech+Systems+%26+Backend+Architecture;Embedded+Systems+%26+Mechatronics" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00f2fe&center=true&vCenter=true&width=650&height=40&lines=Biomedical+Engineer+%26+Full-Stack+Developer;HealthTech+Systems+%26+Backend+Architecture;Embedded+Systems+%26+Mechatronics" alt="Typing SVG" /></a>
 </p>
 
 ---
