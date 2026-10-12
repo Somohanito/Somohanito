@@ -8,7 +8,7 @@
 
 ---
 
-### 💻 Technical Stack & Ecosystem
+### Technical Stack & Ecosystem
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,sqlite,postgresql,git,github,linux,raspberrypi,arduino,vscode&perline=7" />
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **[sovic-cervical-cytology](https://github.com/Somohanito/sovic-cervical-cytology):** Automated cervical cytology triage system powered by Raspberry Pi 5, ESP32-C3 mechatronics, and Deep Learning for non-invasive automated slide scanning.
 - **[GymWeb](https://github.com/Somohanito/Gym-Web):** Modular SaaS platform for gym administration, featuring real-time QR code access control, automated membership renewals, and coach-student workout tracking.
@@ -30,16 +30,16 @@
 
 ---
 
-### 📊 Development Metrics
+### Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=94a3b8&icon_color=00f2fe&title_color=00f2fe" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=94a3b8&title_color=00f2fe" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Somohanito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=94a3b8&icon_color=00f2fe&title_color=00f2fe" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somohanito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=94a3b8&title_color=00f2fe" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 🔗 Connect
+### Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-somohano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
